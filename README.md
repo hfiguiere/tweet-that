@@ -8,6 +8,9 @@ Source at:
 https://github.com/hfiguiere/tweet-that
 
 Author:
-Hubert Figuière
+Hubert Figuière <hub@figuiere.net>
+
+Contributors:
+canuckistani <jeff@canuckistani.ca>
 
 License: MPL
