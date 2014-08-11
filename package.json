@@ -1,0 +1,9 @@
+{
+  "name": "tweet-that",
+  "title": "tweet-that",
+  "id": "jid1-pF9SZq2GsG9cRA",
+  "description": "Tweet the current tab",
+  "author": "Hubert Figuière",
+  "license": "MPL 2.0",
+  "version": "0.1"
+}
