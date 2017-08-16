@@ -23,5 +23,12 @@
 
   "background": {
     "scripts": ["background.js"]
+  },
+
+  "applications": {
+    "gecko": {
+      "id": "jid1-pF9SZq2GsG9cRA@jetpack",
+      "strict_min_version": "55.0"
+    }
   }
 }

@@ -1,5 +1,5 @@
 0.3.0
-- Ported to webextensions because of Firefox 57.
+- Ported to webextensions because of Firefox 57. Requires Firefox 55.
 
 0.2.2
 - Fix broken add-on starting in Firefox 44.
