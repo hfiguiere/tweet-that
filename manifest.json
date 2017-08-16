@@ -1,0 +1,27 @@
+{
+  "manifest_version": 2,
+  "version": "0.3.0",
+  "description": "Tweet the current tab",
+  "name": "Tweet That!",
+  "homepage_url": "https://github.com/hfiguiere/tweet-that",
+
+  "icons": {
+    "16": "data/icon-16.png",
+    "32": "data/icon-32.png",
+    "64": "data/icon-64.png"
+  },
+
+  "permissions": [
+    "tabs"
+  ],
+
+  "browser_action": {
+    "default_icon": "data/icon-32.png",
+    "default_title": "Tweet That!",
+    "default_popup": "popup/tweetthat.html"
+  },
+
+  "background": {
+    "scripts": ["background.js"]
+  }
+}

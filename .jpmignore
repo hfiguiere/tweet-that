@@ -1,6 +1,0 @@
-.jpmignore
-.git
-gotest.sh
-*.xpi
-test/*
-doc/*

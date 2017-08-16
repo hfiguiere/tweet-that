@@ -1,3 +1,6 @@
+0.3.0
+- Ported to webextensions because of Firefox 57.
+
 0.2.2
 - Fix broken add-on starting in Firefox 44.
   https://blog.mozilla.org/addons/2015/10/14/breaking-changes-let-const-firefox-nightly-44/
